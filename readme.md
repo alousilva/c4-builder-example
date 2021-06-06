@@ -1,5 +1,13 @@
 # c4-builder-example
 
+Originally this project was created using the C4-Builder (check text below) but instead of using the layouts from https://raw.githubusercontent.com/adrianvlupu/C4-PlantUML/1.2020.17/, I created a folder named **layouts** which contains copies from the original ones from the author's github repo.
+
+The following text found in the current readme was generated after running:
+
+```bash
+c4builder new
+```
+
 # Introduction
 
 This project was created using [c4builder](https://adrianvlupu.github.io/C4-Builder/)

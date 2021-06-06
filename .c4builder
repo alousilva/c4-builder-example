@@ -1,4 +1,26 @@
 {
 	"plantumlVersion": "1.2020.17",
-	"projectName": "c4-builder-example"
+	"projectName": "c4-builder-example",
+	"homepageName": "Overview",
+	"rootFolder": "src",
+	"distFolder": "docs",
+	"generateMD": false,
+	"generatePDF": true,
+	"generateCompleteMD": false,
+	"generateCompletePDF": true,
+	"generateWEB": true,
+	"webTheme": "//unpkg.com/docsify/lib/themes/vue.css",
+	"repoUrl": "",
+	"docsifyTemplate": "",
+	"webPort": "3000",
+	"pdfCss": "C:\\Users\\ASUS\\AppData\\Roaming\\nvm\\v14.15.3\\node_modules\\c4builder\\pdf.css",
+	"includeBreadcrumbs": true,
+	"includeLinkToDiagram": false,
+	"diagramsOnTop": true,
+	"embedDiagram": false,
+	"generateLocalImages": false,
+	"plantumlServerUrl": "https://www.plantuml.com/plantuml",
+	"diagramFormat": "svg",
+	"charset": "UTF-8",
+	"hasRun": true
 }
